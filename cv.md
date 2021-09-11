@@ -31,7 +31,7 @@ I hope that together with RS-School I will be able to achieve my goal and become
 
 *** *** ***
   
-### Skills###
+### Skills ###
 
 + _AutoCad_
 + _HTML_ & _CSS_
