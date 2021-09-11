@@ -1,15 +1,17 @@
-# rsschool-cv
+# rsschool-cv #
 *** *** ***
-# Artur Zabashta
+# Artur Zabashta #
 *** *** *** 
 
-### Contact information:
-__Location:__ Bobruisk, Belarus
-__Phone:__ +375 44 742-62-77
-__Email:__ zarpost@gmail.com
-__GitHub:__ ArturZabashta
+### Contact information: ###
 
-###About Me
++ __Location:__ Bobruisk, Belarus
++ __Phone:__ +375 44 742-62-77
++ __Email:__ zarpost@gmail.com
++ __GitHub:__ ArturZabashta
+
+### About Me ###
+
 I'm 36 years old. I worked as a mechanic in a state enterprise, 
 but over time I began to realize that this job wasn`t what I wanted to achieve in life. 
 I have always been attracted to computer technology. Therefore, 
@@ -20,7 +22,8 @@ I hope that together with RS-School I will be able to achieve my goal and become
 
 *** *** ***
 
-###My strengths:
+### My strengths: ###
+
 + _Desire for knowledge_
 + _Fast learner_
 + _Diligence_
@@ -28,7 +31,8 @@ I hope that together with RS-School I will be able to achieve my goal and become
 
 *** *** ***
   
-###Skills
+### Skills###
+
 + _AutoCad_
 + _HTML_ & _CSS_
 + _JavaScript_ (Basic)
@@ -37,7 +41,8 @@ I hope that together with RS-School I will be able to achieve my goal and become
 
 *** *** ***
 
-###Code Examples
+### Code Examples ###
+
 ```javascript
   var wordArray=word.split('');
   var count=0;   
@@ -48,17 +53,22 @@ I hope that together with RS-School I will be able to achieve my goal and become
 
 *** *** ***
 
-###Education
+### Education ###
 
-| educational institution |faculty |speciality |
-| ---|---|---|
-| Institute for Advanced Studies and Retraining of Personnel of BNTU | Investment management | manager-economist|
-| Belarusian National Technical University | Autotractor Faculty | mechanical engineer | 
-| Bobruisk State Autotractor College | Technical operation of vehicles | mechanical technician |  
+- Institute for Advanced Studies and Retraining of Personnel of BNTU 
+  - Investment management 
+    - manager-economist
+- Belarusian National Technical University 
+  - Autotractor Faculty 
+    - mechanical engineer  
+- Bobruisk State Autotractor College 
+  - Technical operation of vehicles 
+    - mechanical technician   
 
 *** *** ***
 
-####Languages
+#### Languages ####
+
 + __Russian__ (native)
 + __Belorussian__ (native)
 + __English__  (A2 / finished school with in-depth study of English )
